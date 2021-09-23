@@ -30,6 +30,10 @@ Details about the content of this release are available in the release note [her
 Below is the list of the BSP *component* drivers to be used with this BSP *board* driver. It is **crucial** that you use a consistent set of CMSIS - HAL - BSP versions, as mentioned in [this](https://htmlpreview.github.io/?https://github.com/STMicroelectronics/STM32CubeWB/blob/master/Release_Notes.html) release note.
 
 * [stm32-bsp-common](https://github.com/STMicroelectronics/stm32-bsp-common)
+* [stm32-ism330dhcx](https://github.com/STMicroelectronics/stm32-ism330dhcx)
+* [stm32-s25fl128s](https://github.com/STMicroelectronics/stm32-s25fl128s)
+* [stm32-ssd1315](https://github.com/STMicroelectronics/stm32-ssd1315)
+* [stm32-stts22h](https://github.com/STMicroelectronics/stm32-stts22h)
 
 ## Troubleshooting
 
