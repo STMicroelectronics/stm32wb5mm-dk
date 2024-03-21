@@ -19,7 +19,7 @@
 
 /* Define to prevent recursive inclusion -------------------------------------*/
 #ifndef STM32WB5MM_DK_LCD_H
-#define SSTM32WB5MM_DK_LCD_H
+#define STM32WB5MM_DK_LCD_H
 
 #ifdef __cplusplus
  extern "C" {
